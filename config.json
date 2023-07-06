@@ -1,0 +1,19 @@
+{
+    "informations": {
+        "name": "",
+        "logo": ""
+    },
+
+    "channels": {
+        "logs": "",
+        "ticket": ""
+    },
+
+    "categories": {
+        "ticket": ""
+    },
+
+    "roles": {
+        "moderator": ""
+    }
+}
